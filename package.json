@@ -1,0 +1,19 @@
+{
+    "author": {
+        "email": "ahmad@shahzad.dev",
+        "name": "Ahmad Shahzad",
+        "url": "https://shahzad.dev"
+    },
+    "dependencies": {},
+    "description": "A simple note-sharing application that supports password-protected notes, notes with time-limits, one-time only notes, and permanent notes.",
+    "devDependencies": {},
+    "license": "MIT",
+    "main": "app.js",
+    "name": "noteshare",
+    "private": true,
+    "scripts": {
+        "start": "node .",
+        "start:dev": "nodemon -e js,html"
+    },
+    "version": "0.0.1"
+}
