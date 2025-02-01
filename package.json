@@ -5,7 +5,8 @@
         "url": "https://shahzad.dev"
     },
     "dependencies": {
-        "express": "^4.21.2"
+        "express": "^4.21.2",
+        "nunjucks": "^3.2.4"
     },
     "description": "A simple note-sharing application that supports password-protected notes, notes with time-limits, one-time only notes, and permanent notes.",
     "devDependencies": {
